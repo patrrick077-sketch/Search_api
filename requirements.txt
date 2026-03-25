@@ -1,0 +1,3 @@
+Flask
+duckduckgo-search
+requests
